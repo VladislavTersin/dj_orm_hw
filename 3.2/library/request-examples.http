@@ -49,7 +49,7 @@ Content-Type: application/json
 {
   "user_name": "Иван Петров",
   "days_count": 2,
-  "books": [1, 2]
+  "books": [3, 2]
 }
 
 ###
